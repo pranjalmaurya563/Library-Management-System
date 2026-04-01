@@ -1,0 +1,8 @@
+book_id,title,author,quantity,available
+B001,Python Programming,Guido van Rossum,3,3
+B002,Data Structures,Mark Allen Weiss,2,2
+B003,Database Management,Ramez Elmasri,4,4
+B004,Operating Systems,Silberschatz,2,2
+B005,Computer Networks,Andrew Tanenbaum,3,3
+A1233,C,Pranjal,1,1
+B008,C++,Anuj,2,2
