@@ -74,4 +74,4 @@ python library_management.py
 
 ## 👨‍💻 Author
 
-Aryan Jain
+Pranjal Maurya
